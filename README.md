@@ -20,7 +20,7 @@
 ✍️ &nbsp;In my spare time, I dedicate my time to web and mobile application development.\
 💬 &nbsp;Feel free to contact me for consulting and pro bono volunteer work, or just to have an interesting discussion.\
 ✉️ &nbsp;You can email me at maicolcrodrigoa@gmail.com. I will try to respond as soon as I can.\
-📄 &nbsp;Please take a look at my [Curriculum Vitae](https://www.canva.com/design/DAEo-3_rqxE/yaEJKMH1M4NHX1Xp_y7sLA/view?utm_content=DAEo-3_rqxE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) for more details about me. I am open to comments and suggestions.
+📄 &nbsp;Please take a look at my <a href="https://www.canva.com/design/DAEo-3_rqxE/yaEJKMH1M4NHX1Xp_y7sLA/view?utm_content=DAEo-3_rqxE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">Curriculum Vitae</a> for more details about me. I am open to comments and suggestions.
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
