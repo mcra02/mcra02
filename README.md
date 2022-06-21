@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"A passionate Software Developer from Peru"</b></h4>
+  <h4 align="center"><b>"A passionate Software Developer from Peruvian"</b></h4>
 </p>
 
 <!-- <h2>¡Hola! Soy Maicol</h2> -->
